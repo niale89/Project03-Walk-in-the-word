@@ -3,7 +3,7 @@
 This repository contains my Project 03 proposal and a two-page HTML prototype.
 
 ## Live site
-(After enabling GitHub Pages, paste the link here.)
+[(https://niale89.github.io/Project03-Walk-in-the-word/)]
 
 ## What’s included
 - `index.html`, `about.html`, `style.css`
